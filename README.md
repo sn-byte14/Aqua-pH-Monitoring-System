@@ -1,6 +1,6 @@
-#🌊 Aqua pH Monitoring System
+# 🌊 Aqua pH Monitoring System
 
-#📌 Project Overview
+# 📌 Project Overview
 
 The Aqua pH Monitoring System is an Arduino-based water quality monitoring system designed to measure and monitor the pH levels of water in real-time. It uses a pH sensor to detect the acidity or alkalinity of water and displays the readings on an LCD screen. This system is beneficial for applications such as:
 
